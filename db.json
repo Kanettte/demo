@@ -8,4 +8,5 @@
     {"id": 5, "name": "Project 5", "categories" : ["Website"], "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat vestibulum lacinia. Sed diam magna, volutpat tincidunt leo at, interdum feugiat arcu.", "image" : "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100", "createdAt": "2020-10-04T18:56:18.775Z"},
         {"id": 3, "name": "Project 3", "categories" : ["Mobile App"], "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat vestibulum lacinia. Sed diam magna, volutpat tincidunt leo at, interdum feugiat arcu.", "image" : "https://images.pexels.com/photos/1714208/pexels-photo-1713208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100", "createdAt": "2020-01-04T18:56:18.775Z"},
         {"id": 2, "name": "Project 2", "categories" : ["Website"], "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat vestibulum lacinia. Sed diam magna, volutpat tincidunt leo at, interdum feugiat arcu.", "image" : "https://images.pexels.com/photos/1714208/pexels-photo-1713208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100", "createdAt": "2019-05-04T18:56:18.775Z"}
-}
+]
+    }
