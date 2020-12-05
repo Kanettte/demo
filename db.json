@@ -35,10 +35,10 @@
 		},
 		{
 			"id": 3,
-			"name": "Project 3",
+			"name": "Another Project 3",
 			"categories": ["Mobile App"],
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat vestibulum lacinia.  Nunc placerat vestibulum lacinia. Sed diam magna, volutpat tincidunt leo at, interdum feugiat arcu.",
-			"image": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100",
+			"image": "",
 			"git": "https://gitlab.com/",
 			"createdAt": "2020-06-04T18:56:18.775Z"
 		},
